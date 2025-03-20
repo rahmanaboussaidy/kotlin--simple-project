@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jifunze">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/happyBirthdayApp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lambdaexpression.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rasi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
